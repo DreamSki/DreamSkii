@@ -4,7 +4,7 @@ highlighter: pygments # or rouge or null
 exclude: ["node_modules", "gulpfile.js", "package.json"]
 
 # Jekyll Defaults
-title: Colorful, DreamSkii & Magic 
+title: Orange & Magic 
 email: your-email@domain.com
 description: A small and simple site I made to test out Jekyll. Watch out! I'm going to make a material design theme next!
 baseurl: "https://sunchengbo321.github.io/DreamSkii" # the subpath of your site, e.g. /blog
@@ -17,7 +17,8 @@ url: "https://sunchengbo321.github.io/DreamSkii"
 # Use these to link users to your organization's social media sites
 twitter:
 facebook:
-google:
+google: 
+github:https://github.com/Sunchengbo321
 
 author: Emmmbeeed
 authorBio: A Landing Guy Dreaming of Swimming in the Sky  
