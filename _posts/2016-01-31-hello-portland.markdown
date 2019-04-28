@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Hello, Portland"
-date:   2016-01-31 09:11:03
-description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
+title:  "Hello, Dreamer"
+date:   2019-01-31 12:00:00
+description: A Landing guy dreaming of flying in the sky.
 thumbnail: person1.jpeg
-categories: category1
+categories: Welcome
 
 # Information for the author block
 author: Nina Petropoulos
