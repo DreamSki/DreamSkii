@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "My Lover"
-date:   2019-05-1 09:11:03
+date:   2019-05-04 09:11:03
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
-thumbnail: eye.jpg
+thumbnail: lover.jpg
 categories: Love
 
 # Information for the author block
