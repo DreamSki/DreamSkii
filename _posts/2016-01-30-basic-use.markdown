@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Basic Use: A Guide"
-date:   2016-01-30 09:11:03
+title:  "My Faith：Sixers"
+date:   2019-07-30 09:11:03
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
-thumbnail: building1.jpg
-categories: category2
+thumbnail: sixers.jpg
+categories: Sixers
 
 # Information for the author block
 author: Nina Petropoulos
