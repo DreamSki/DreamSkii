@@ -4,7 +4,7 @@ highlighter: pygments # or rouge or null
 exclude: ["node_modules", "gulpfile.js", "package.json"]
 
 # Jekyll Defaults
-title: Artist Theme
+title: Colorful, DreamSkii & Magic 
 email: your-email@domain.com
 description: A small and simple site I made to test out Jekyll. Watch out! I'm going to make a material design theme next!
 baseurl: "https://sunchengbo321.github.io/DreamSkii" # the subpath of your site, e.g. /blog
